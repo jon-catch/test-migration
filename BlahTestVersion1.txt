@@ -1,6 +1,12 @@
 Blah sojnsfsf
 
 sfsfsf
+<<<<<<< HEAD
+dd
+
+ddwdwdwfdwf
+=======
 dwdwd
 
 First git commit
+>>>>>>> origin/FirstBranch
